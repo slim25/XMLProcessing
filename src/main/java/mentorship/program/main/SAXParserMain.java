@@ -2,12 +2,10 @@ package mentorship.program.main;
 
 
 import mentorship.program.model.Book;
-import mentorship.program.parser.SAXHandler;
+import mentorship.program.handler.SAXHandler;
 
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.InputStream;
 import java.util.List;
 import java.util.Map;

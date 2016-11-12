@@ -1,6 +1,5 @@
-package mentorship.program.parser;
+package mentorship.program.handler;
 
-import jdk.internal.org.xml.sax.Attributes;
 import mentorship.program.model.Book;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
